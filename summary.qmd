@@ -1,6 +1,8 @@
 ---
 title: "Mitigator analysis"
-format: html
+format:
+  html:
+    embed-resources: true
 echo: false
 message: false
 ---
